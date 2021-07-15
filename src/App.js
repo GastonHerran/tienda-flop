@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
+import ItemListContainer from './components/ItemListContainer';
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
           <NavBar />
         </p>
       </header>
+      <ItemListContainer saludo='Soy un item' />
     </div>
   );
 }

@@ -45,3 +45,8 @@ h1 {
   text-transform: uppercase;
   color: #d7a5a5;
 }
+
+.carritoIcono {
+  margin-left: 20px;
+  margin-top: 5px;
+}
